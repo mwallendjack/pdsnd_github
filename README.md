@@ -20,5 +20,8 @@ No Bugs have been discovered in this project
 
 ### Copyright and Licensing Information
 No copyright and licensing information needed
+### Credits
+Udacity
+
 
 
