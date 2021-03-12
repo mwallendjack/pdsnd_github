@@ -18,4 +18,7 @@ Skills acquired through Udacity Modules
 ### Known Bugs
 No Bugs have been discovered in this project
 
+### Copyright and Licensing Information
+No copyright and licensing information needed
+
 
