@@ -153,7 +153,12 @@ def trip_duration_stats(df):
     #TO DO: displace median travel time
     median_travel_time = df['Trip Duration'].median()
     print('The median travel time is:', median_travel_time)
-    
+
+    #TO DO: display mode travel time                             
+    mode_travel_time = df['Trip Duration'].mode()
+    print('The mode travel time is:', mode_travel_time) 
+   
+
 
     print("\nThis took %s seconds." ,(time.time() - start_time))
     print('-'*40)
