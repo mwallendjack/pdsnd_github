@@ -13,6 +13,7 @@ def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
     Months are only first 6 months.Ends a July
+    Days exclude weekends.
     Returns:
         (str) city - name of the city to analyze
         (str) month - name of the month to filter by, or "all" to apply no month filter
